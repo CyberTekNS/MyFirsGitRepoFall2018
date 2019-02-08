@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PFN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PFN/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SPECIAL_CUCUMBER/src/test/java/com/naser/StepDefination/HomePageStepDefination.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SPECIAL_CUCUMBER/src/test/java/com/naser/TestRunner/TestRunner.java" beforeDir="false" />
@@ -36,8 +37,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HellowWrld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HellowWrld.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
@@ -49,12 +81,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyFirsGitRepoFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirsGitRepoFall2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirsGitRepoFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirsGitRepoFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirsGitRepoFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549596629271" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,6 +124,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="HellowWrld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HellowWrld" />
+      <module name="MyFirsGitRepoFall2018" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HellowWrld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,21 +153,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13876967" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32961586" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.3576538" side_tool="true" weight="0.25650558" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32961586" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6423462" visible="true" weight="0.25650558" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6423462" weight="0.25650558" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -115,6 +182,19 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HellowWrld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
