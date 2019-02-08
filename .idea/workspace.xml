@@ -17,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../B10FrscucumberFramWork/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B10FrscucumberFramWork/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PFN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PFN/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SPECIAL_CUCUMBER/src/test/java/com/naser/StepDefination/HomePageStepDefination.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SPECIAL_CUCUMBER/src/test/java/com/naser/TestRunner/TestRunner.java" beforeDir="false" />
@@ -51,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaClass1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -60,8 +59,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GithHub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +86,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/HellowWrld.java" />
         <option value="$PROJECT_DIR$/src/JavaClass1.java" />
+        <option value="$PROJECT_DIR$/src/GithHub.java" />
       </list>
     </option>
   </component>
@@ -121,7 +125,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549598967026" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549599328411" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -174,10 +178,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13876967" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.3576538" side_tool="true" weight="0.25650558" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32961586" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -207,8 +211,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaClass1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GithHub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
